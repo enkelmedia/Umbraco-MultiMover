@@ -1,0 +1,21 @@
+﻿<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Our.Umbraco.MultiMover</id>
+    <version>0.1</version>
+    <title>MultiMover for Umbraco 7</title>
+    <description>Menu action to move multiple nodes at the same time in the Umbraco tree</description>
+    <authors>Marks Johansson</authors>
+    <projectUrl>https://our.umbraco.org/projects/backoffice-extensions/the-dashboard/</projectUrl>
+    <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <copyright>Copyright (c) Enkel Media Stockholm</copyright>
+    <summary />
+    <language />
+    <dependencies>
+      <dependency id="UmbracoCms.Core" version="7.0.0" />
+    </dependencies>
+  </metadata>
+  <files>
+  </files>
+</package>

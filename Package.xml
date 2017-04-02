@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<umbPackage>
+	<info>
+		<package>
+			<name>MultiMover</name>
+			<version>0.1</version>
+			<license url="http://www.opensource.org/licenses/mit-license.php">MIT license</license>
+			<url>https://our.umbraco.org/projects/backoffice-extensions/multimover/</url>
+			<requirements>
+				<major>7</major>
+				<minor>0</minor>
+				<patch>0</patch>
+			</requirements>
+		</package>
+		<author>
+			<name>Markus Johansson</name>
+			<website>http://twitter.com/markusjoha</website>
+		</author>
+		<readme><![CDATA[]]></readme>
+	</info>
+
+	<DocumentTypes />
+	<Templates />
+	<Stylesheets />
+	<Macros />
+	<DictionaryItems />
+	<Languages />
+	<DataTypes />
+  <Actions>
+    <!--
+    <Action runat="install" undo="true" alias="TheDashboard"></Action>
+    <Action runat="install" alias="RemoveOldInstallation"></Action>
+    -->
+  </Actions>
+  <control />
+
+	<files />
+
+</umbPackage>
