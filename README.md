@@ -1,4 +1,4 @@
-MultiMover for Umbraco
+MultiMover for Umbraco 7
 =====
 
 This Umbraco package adds a menu action to content nodes to be able to move multiple nodes to a common destination - all at the same time.
